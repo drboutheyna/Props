@@ -1,3 +1,0 @@
-# Props
-# Props
-# checkpoint-props
